@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "780400357888",
+    "project_id": "capybara-76b0c",
+    "storage_bucket": "capybara-76b0c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:780400357888:android:8695019e1d0aae2b215ee5",
+        "android_client_info": {
+          "package_name": "com.example.shkola_617_gde_ya_kto_ya"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "780400357888-8o1mj13j70s23m6fhv6jsikgnk961hp7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIMflfMhPJIk96feoUWl3rU3_4caEtQqE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "780400357888-8o1mj13j70s23m6fhv6jsikgnk961hp7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
